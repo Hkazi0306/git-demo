@@ -1,1 +1,1 @@
-prinf{"Hello Kazi"}
+print{"Hello Kazi"}
